@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="133646" started-at="2019-09-16T23:34:35Z" finished-at="2019-09-16T23:36:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="133646" started-at="2019-09-16T23:34:35Z" finished-at="2019-09-16T23:36:49Z">
+      <class name="testes.BuscaElementosTeste_1">
+        <test-method status="PASS" signature="setUpTest()[pri:0, instance:testes.BuscaElementosTeste_1@1ce4f0a]" name="setUpTest" is-config="true" duration-ms="58502" started-at="2019-09-16T23:34:35Z" finished-at="2019-09-16T23:35:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method status="PASS" signature="buscaElementosTeste()[pri:0, instance:testes.BuscaElementosTeste_1@1ce4f0a]" name="buscaElementosTeste" duration-ms="39296" started-at="2019-09-16T23:35:34Z" finished-at="2019-09-16T23:36:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buscaElementosTeste -->
+        <test-method status="PASS" signature="tearDownTest()[pri:0, instance:testes.BuscaElementosTeste_1@1ce4f0a]" name="tearDownTest" is-config="true" duration-ms="35024" started-at="2019-09-16T23:36:14Z" finished-at="2019-09-16T23:36:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+      </class> <!-- testes.BuscaElementosTeste_1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
