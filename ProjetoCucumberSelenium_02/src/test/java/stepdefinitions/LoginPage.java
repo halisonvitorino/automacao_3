@@ -21,7 +21,7 @@ public class LoginPage {
 
 	@When("^eu digito a senha$")
 	public void eu_digito_a_senha(){
-		Testes.driver.findElement(By.id("user_password")).sendKeys("123456");
+		Testes.driver.findElement(By.id( "user_password")).sendKeys("123456");
 	}
 
 	@When("^clico em ok$")
